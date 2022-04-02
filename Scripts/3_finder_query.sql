@@ -1,4 +1,4 @@
--- CR3 Create a view to find active job vacancies
+-- CR3 Create a view to find active job openings
 
 CREATE VIEW active_job_view AS
 SELECT
