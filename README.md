@@ -15,6 +15,10 @@ How this database may help:
 
 ## Usage
 
+Pre-requisite: Install MySQLWorkbench
+
+Create Finder database by executing file `Scripts/finder.sql` (this file contains sample data)
+
 ### Schema
 ![finder_er_diagram](https://user-images.githubusercontent.com/101298450/161381304-79299fcd-5c54-4b80-aa62-b0d56d1d9e50.png)
 
